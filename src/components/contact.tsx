@@ -27,6 +27,7 @@ const Contact = styled.section`
     line-height: 1.6;
     margin: 5px 0;
     text-align: center;
+    font-family: "Roboto", sans;
   }
 
   div.contact-container {
@@ -49,6 +50,7 @@ const Contact = styled.section`
     justify-content: center;
     flex-direction: column;
     padding-top: 30px;
+    font-family: "Roboto", sans;
   }
 
   div.contact-item > img {
@@ -62,6 +64,7 @@ const Contact = styled.section`
   div.contact-item > p {
     font-size: 20px;
     text-align: center;
+    font-family: "Roboto", sans;
   }
 `
 

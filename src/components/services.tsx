@@ -28,6 +28,7 @@ const Services = styled.section`
     line-height: 1.3;
     margin: 10px 0;
     text-align: center;
+    font-family: "Roboto", sans;
   }
 `
 

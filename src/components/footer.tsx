@@ -19,6 +19,7 @@ const Footer = styled.section`
     margin: 0;
     padding: 0;
     text-align: center;
+    font-family: "Roboto", sans;
   }
 `
 

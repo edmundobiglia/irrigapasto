@@ -13,6 +13,10 @@ const GlobalStyle = createGlobalStyle`
     box-sizing: border-box;
   }
 
+  body, p {
+    font-family: "Roboto", sans;
+  }
+
   * {
     box-sizing: border-box;
     font-family: "Roboto", sans;

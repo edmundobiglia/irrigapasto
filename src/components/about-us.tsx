@@ -26,6 +26,7 @@ const AboutUs = styled.section`
     font-weight: 400;
     font-size: 22px;
     line-height: 1.6;
+    font-family: "Roboto", sans;
   }
 `
 
