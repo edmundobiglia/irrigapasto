@@ -1,5 +1,4 @@
 import React from "react"
-import type { HeadFC, PageProps } from "gatsby"
 import { createGlobalStyle } from "styled-components"
 
 const mainColor = "#236772"
