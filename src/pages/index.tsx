@@ -40,16 +40,12 @@ const IndexPage: React.FC<PageProps> = () => {
       <Contact>
         <h1>CONTATO</h1>
 
-        <p>Para consultas e orçamentos, fale conosco.</p>
+        <p>Para consultas e orçamentos, fale&nbsp;conosco.</p>
 
         <div className="contact-container">
           <div className="contact-item">
             <img src={whatsappIcon} />
             <p><a href="https://wa.me/55159991530091">(15) 999153-0091</a></p>
-          </div>
-          <div className="contact-item">
-            <img src={facebookIcon} />
-            <p><a href="https://www.facebook.com/irrigapasto">@irrigapasto</a></p>
           </div>
           <div className="contact-item">
             <img src={instagramIcon} />
