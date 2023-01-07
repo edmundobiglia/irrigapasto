@@ -33,7 +33,7 @@ const Hero = styled.section`
     }
 
     color: #fff;
-    font-family: "Oswald", sans;
+    font-family: "Oswald", sans-serif;
     font-weight: 500;
     font-size: 86px;
     margin: 0;
@@ -53,7 +53,7 @@ const Hero = styled.section`
     }
 
     color: #fff;
-    font-family: "Oswald", sans;
+    font-family: "Oswald", sans-serif;
     font-weight: 400;
     font-size: 30px;
     margin: -10px 0 0 0;

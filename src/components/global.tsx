@@ -14,12 +14,12 @@ const GlobalStyle = createGlobalStyle`
   }
 
   body, p {
-    font-family: "Roboto", sans;
+    font-family: "Roboto", sans-serif;
   }
 
   * {
     box-sizing: border-box;
-    font-family: "Roboto", sans;
+    font-family: "Roboto", sans-serif;
   }
 
   a {

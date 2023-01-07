@@ -14,7 +14,7 @@ const AboutUs = styled.section`
 
   h1 {
     color: ${mainColor};
-    font-family: "Oswald", sans;
+    font-family: "Oswald", sans-serif;
     font-weight: 500;
     font-size: 36px;
     margin: 0 0 20px 0;
@@ -22,11 +22,11 @@ const AboutUs = styled.section`
 
   p {
     color: #0f0f0f;
-    font-family: "Roboto", sans;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 22px;
     line-height: 1.6;
-    font-family: "Roboto", sans;
+    font-family: "Roboto", sans-serif;
   }
 `
 

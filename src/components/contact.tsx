@@ -13,7 +13,7 @@ const Contact = styled.section`
 
   h1 {
     color: ${mainColor};
-    font-family: "Oswald", sans;
+    font-family: "Oswald", sans-serif;
     font-weight: 500;
     font-size: 36px;
     margin: 0 0 20px 0;
@@ -21,13 +21,13 @@ const Contact = styled.section`
 
   p {
     color: #000;
-    font-family: "Roboto", sans;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 20px;
     line-height: 1.6;
     margin: 5px 0;
     text-align: center;
-    font-family: "Roboto", sans;
+    font-family: "Roboto", sans-serif;
   }
 
   div.contact-container {
@@ -50,7 +50,7 @@ const Contact = styled.section`
     justify-content: center;
     flex-direction: column;
     padding-top: 30px;
-    font-family: "Roboto", sans;
+    font-family: "Roboto", sans-serif;
   }
 
   div.contact-item > img {
@@ -64,7 +64,7 @@ const Contact = styled.section`
   div.contact-item > p {
     font-size: 20px;
     text-align: center;
-    font-family: "Roboto", sans;
+    font-family: "Roboto", sans-serif;
   }
 `
 

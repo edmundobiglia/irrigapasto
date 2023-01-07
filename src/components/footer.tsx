@@ -13,13 +13,13 @@ const Footer = styled.section`
 
   p {
     color: #fff;
-    font-family: "Roboto", sans;
+    font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
     margin: 0;
     padding: 0;
     text-align: center;
-    font-family: "Roboto", sans;
+    font-family: "Roboto", sans-serif;
   }
 `
 
