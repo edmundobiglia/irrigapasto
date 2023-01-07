@@ -21,6 +21,10 @@ const AboutUs = styled.section`
   }
 
   p {
+    @media (max-width: 700px) {
+      font-size: 20px;
+    }
+
     color: #0f0f0f;
     font-family: "Roboto", sans-serif;
     font-weight: 400;

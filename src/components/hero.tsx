@@ -3,7 +3,7 @@ import banner from "../images/banner.jpg"
 
 const Hero = styled.section`
   @media (max-width: 420px) {
-    height: 100vh;
+    height: 80vh;
   }
   
   max_width: 100%;

@@ -40,7 +40,7 @@ type Props = {
 const Global: React.FC<Props> = ({ children }) => {
   return (
     <React.Fragment>
-      <GlobalStyle theme="purple" />
+      <GlobalStyle />
       {children}
     </React.Fragment>
   )

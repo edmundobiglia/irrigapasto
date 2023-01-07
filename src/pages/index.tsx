@@ -48,6 +48,10 @@ const IndexPage: React.FC<PageProps> = () => {
             <p><a href="https://wa.me/55159991530091">(15) 999153-0091</a></p>
           </div>
           <div className="contact-item">
+            <img src={facebookIcon} />
+            <p><a href="https://www.facebook.com/irrigapasto">@irrigapasto</a></p>
+          </div>
+          <div className="contact-item">
             <img src={instagramIcon} />
             <p><a href="https://www.instagram.com/irrigapasto">@irrigapasto</a></p>
           </div>
