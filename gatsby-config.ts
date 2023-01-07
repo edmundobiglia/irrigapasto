@@ -13,6 +13,12 @@ const config: GatsbyConfig = {
     resolve: "gatsby-plugin-styled-components",
   },
   {
+    resolve: 'gatsby-plugin-manifest',
+    options: {
+      icon: 'src/images/icon.png',
+    },
+  },
+  {
     resolve: `gatsby-plugin-google-fonts`,
     options: {
       fonts: [
