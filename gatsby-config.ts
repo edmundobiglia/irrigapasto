@@ -16,7 +16,8 @@ const config: GatsbyConfig = {
     resolve: `gatsby-plugin-google-fonts`,
     options: {
       fonts: [
-        `oswald\:300,400,500,600`
+        `oswald\:300,400,500,600`,
+        `roboto\:400`,
       ],
       display: 'swap'
     }
