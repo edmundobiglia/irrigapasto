@@ -45,7 +45,7 @@ const IndexPage: React.FC<PageProps> = () => {
         <div className="contact-container">
           <div className="contact-item">
             <img src={whatsappIcon} />
-            <p><a href="https://wa.me/55159991530091">(15) 999153-0091</a></p>
+            <p><a href="https://wa.me/5515991530091">(15) 99153-0091</a></p>
           </div>
           <div className="contact-item">
             <img src={facebookIcon} />
